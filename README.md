@@ -14,21 +14,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### 3 User Control and Freedom
 
-### Consistency and Standards
+### 4 Consistency and Standards
 #### Internal consistency
 #### External consistency
 
-### Error prevention:
+### 5 Error Prevention
 
-### Recognition over recall 
+### 6 Recognition Over Recall 
 
-### Flexibility and efficiency of use: 
+### 7 Flexibility and Efficiency of Use
 
-### Aesthetic and minimalist design: 
+### 8 Aesthetic and Minimalist Design
 
-### Help users recognize, diagnose, and recover from errors
+### 9 Help Users Recognize, Diagnose, and Recover from Errors
 
-### Help and documentation
+### 10 Help and Documentation
 
 - Bulleted
 - List
