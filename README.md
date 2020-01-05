@@ -1,19 +1,34 @@
-## Welcome to GitHub Pages
+## Assignment 1
 
-You can use the [editor on GitHub](https://github.com/joshmimura/DH-150/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Josh Mimura
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DH 150
 
-### Markdown
+## App
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 1 Visibility of System Status
 
-# Header 1
-## Header 2
-### Header 3
+### 2 Match Between System and the Real World
+
+### 3 User Control and Freedom
+
+### Consistency and Standards
+#### Internal consistency
+#### External consistency
+
+### Error prevention:
+
+### Recognition over recall 
+
+### Flexibility and efficiency of use: 
+
+### Aesthetic and minimalist design: 
+
+### Help users recognize, diagnose, and recover from errors
+
+### Help and documentation
 
 - Bulleted
 - List
